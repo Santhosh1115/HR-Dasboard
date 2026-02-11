@@ -10,7 +10,11 @@ This dashboard analyzes employee data including attrition, salary, and performan
 
 ### 📸 Dashboard Preview
 
-![HR Dashboard](Screenshot (31).png)
-![HR Dashboard](Screenshot (24).png)
-![HR Dashboard](Screenshot (25).png)
-![HR Dashboard](Screenshot (26).png)
+<img src="Screenshot (31).png" width="800"/>
+
+<img src="Screenshot (24).png" width="800"/>
+
+<img src="Screenshot (25).png" width="800"/>
+
+<img src="Screenshot (26).png" width="800"/>
+
